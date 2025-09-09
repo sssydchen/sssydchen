@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi there 👋, I'm Yifan (Sydney) Chen</h1>
+<h1 align="center">Hi there 👋, I'm Yifan (Syd)</h1>
 <h3 align="center">A full-stack developer passionate about logic :thought_balloon: and baseball :baseball:</h3>
 
 <h3 align="left">Connect with me:</h3>
